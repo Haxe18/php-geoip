@@ -1,0 +1,7 @@
+php-geoip (1.2.0-1) UNRELEASED; urgency=medium
+
+  * Patched geoip version 1.1.0 for ipv6 support
+  * Used ipv6 patch (https://bugs.php.net/bug.php?id=59124)
+  * Updated patched files to Version 1.1.1
+
+ -- Haxe18 <Haxe18@un.known >  Sat, 08 Jul 2017 23:20:40 +0200
